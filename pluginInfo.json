@@ -1,0 +1,25 @@
+{
+	"repoName": "fpp-Plugin-DWDAlert",
+	"name": "DWDAlert",
+	"author": "Daniel Kuhn (dkNetwork)",
+	"description": "This plugin is designed to fetch DWD Alert Messages.",
+	"homeURL": "https://github.com/KuhnDaniel/fpp-Plugin-DWDAlert",
+	"srcURL": "https://github.com/KuhnDaniel/fpp-Plugin-DWDAlert.git",
+	"bugURL": "https://github.com/KuhnDaniel/fpp-Plugin-DWDAlert/issues",
+	"allowUpdates": 1,
+	"versions": [
+		{
+			"minFPPVersion": "4.0",
+			"maxFPPVersion": "0",
+			"branch": "master",
+			"sha": "",
+			"dependencies": {
+			    "plugins": [
+					"fpp-matrixtools",
+					"FPP-Plugin-MessageQueue"
+					"FPP-Plugin-Matrix-Message"
+				]
+			}
+		}
+	]
+}
