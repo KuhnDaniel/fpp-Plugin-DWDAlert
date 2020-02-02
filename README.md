@@ -1,3 +1,3 @@
 # fpp-plugin-Template
-Template plugin for FPP Plugin developers
+plugin for fpp-Plugin-DWDAlert
 
