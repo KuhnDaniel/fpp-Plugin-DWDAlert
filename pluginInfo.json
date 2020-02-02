@@ -9,17 +9,10 @@
 	"allowUpdates": 1,
 	"versions": [
 		{
-			"minFPPVersion": "4.0",
+			"minFPPVersion": "3.6",
 			"maxFPPVersion": "0",
 			"branch": "master",
-			"sha": "",
-			"dependencies": {
-			    "plugins": [
-					"fpp-matrixtools",
-					"FPP-Plugin-MessageQueue"
-					"FPP-Plugin-Matrix-Message"
-				]
-			}
+			"sha": ""
 		}
 	]
 }
