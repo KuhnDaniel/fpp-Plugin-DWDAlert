@@ -1,1 +1,1 @@
-Template Plugin Content Setup Page Placeholder
+DWDAlert Plugin Content Setup Page Placeholder

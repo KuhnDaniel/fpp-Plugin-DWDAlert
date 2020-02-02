@@ -1,1 +1,1 @@
-Template Plugin Outputs Page Placeholder
+DWDAlert Plugin Outputs Page Placeholder

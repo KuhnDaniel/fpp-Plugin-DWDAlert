@@ -1,1 +1,1 @@
-Template Plugin Status Page Placeholder
+DWDAlert Plugin Status Page Placeholder
